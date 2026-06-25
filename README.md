@@ -21,7 +21,7 @@ Claude Code 输入框下方常驻状态栏插件(此状态栏仅支持DeepSeek�
 ## 安装
 
 ```powershell
-cd cc-statusline
+cd ClaudeCode-statusline
 powershell -ExecutionPolicy Bypass -File install.ps1
 ```
 
