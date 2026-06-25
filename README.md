@@ -1,4 +1,4 @@
-# cc-statusline
+# ClaudeCode-statusline
 
 Claude Code 输入框下方常驻状态栏插件(此状态栏仅支持DeepSeek模型)。
 
