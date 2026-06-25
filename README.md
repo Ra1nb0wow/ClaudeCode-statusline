@@ -1,6 +1,6 @@
 # cc-statusline
 
-Claude Code 输入框下方常驻状态栏插件。
+Claude Code 输入框下方常驻状态栏插件(目前只支持使用了deepseek)。
 
 ```
 上午好！喵喵喵~ | 🤖 deepseek-v4-pro | ✦ 0.01 CNY | 💸 0.50 CNY | 💰 3.71 CNY | 🕐 11:37:30
