@@ -33,13 +33,6 @@ powershell -ExecutionPolicy Bypass -File install.ps1
 - settings.json 已配置 `ANTHROPIC_AUTH_TOKEN`（DeepSeek API key）
 - Windows Terminal（推荐，否则 emoji 可能显示异常）
 
-## 文件
-
-| 文件 | 说明 |
-|------|------|
-| `statusline.ps1` | 每秒刷新，渲染状态栏 |
-| `session-tracker.ps1` | Stop Hook，每次回复后记录花费 |
-| `install.ps1` | 一键安装脚本 |
 
 ## 许可
 
