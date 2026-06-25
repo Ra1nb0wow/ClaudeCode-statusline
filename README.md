@@ -3,7 +3,7 @@
 Claude Code 输入框下方常驻状态栏插件(此状态栏仅支持DeepSeek模型)。
 
 ```
-上午好！喵喵喵~ | 🤖 deepseek-v4-pro | ✦ 0.01 CNY | 💸 0.50 CNY | 💰 3.71 CNY | 🕐 11:37:30
+下午好！喵喵喵~ | 🤖 deepseek-v4-pro | ✦ 0.01 CNY | 💸 0.50 CNY | 💰 3.71 CNY | 🕐 13:01:30
 ```
 <img width="1703" height="358" alt="image" src="https://github.com/user-attachments/assets/aeffd558-53f9-4dde-b565-ed974b7d7911" />
 
